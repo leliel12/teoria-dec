@@ -1,4 +1,4 @@
-# Programa Teoría de Decisión. 
+# Programa Teoría de decisión. 
 
 ## Objetivo.
 
@@ -8,18 +8,11 @@
 
 ## Temas
 
-- **Teoría de la perspectiva:** Nos ayuda a como presentar la información acorde al objetivo que queramos lograr con el 
-receptor de los datos.
-
-
-Esta teoría permite describir cómo las personas toman sus decisiones en situaciones donde deben 
-decidir entre alternativas que involucran riesgo, por ejemplo decisiones financieras. Partiendo de evidencia empírica, la teoría describe cómo los individuos evalúan las potenciales pérdidas y ganancias
-
-
-- Programación lineal (Planteo de problemas, soluciones y análisis de sensibilidad). 
-- Métodos Multicriterio (Escuela francesa, americana y métodos compensatorios). 
-- Métodos Multicriterios Grupales. 
-- Análisis envolvente de datos (DEA).
+- **Teoría de la perspectiva:** Teoría racional de la decisión. Reglas normativas: Cancelación, transitividad, dominancia e invarianza. Función típica de valor. Certidumbre y pseudo-certidumbre.
+- **Programación lineal:** Planteo de problemas, soluciones y análisis de post-optimidad. Ejemplos en Python.
+- **Métodos Multicriterio:** Escuela francesa (ELECTRE-1, PROMETHEE), americana y métodos compensatorios (Suma Ponderada, Multiplicación Ponderada, TOPSIS). Metodo SIMUS. Proceso analítico jerárquico (AHP). Reversion de rangos. Sensibilidad. Métodos Disfusos. Ejemplos en Python.
+- **Métodos Multicriterios Grupales:** Enfoques (Difuso, teoría de la evidencia matemática y teoría de la utilidad multi atributo). Consenso. Generalización de métodos individuales a grupales (AHP y TOPSIS). Procesos DRV. Ejemplos en Python.
+- **Análisis envolvente de datos (DEA):**
 
 Laboratorios: Solución de problemas de teoría de la desicion con Python.
 
