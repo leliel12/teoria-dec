@@ -3,7 +3,8 @@
 ## Objetivo.
 
 - Proveer al analista de datos de herramientas para la presentación de resultados. 
-- 
+- Brindar técnincas para evaluar diversas posibles soluciones con número variable de criterios a un determinado problema.
+
 
 ## Temas
 
