@@ -1,6 +1,20 @@
 # Programa Teoría de Decisión. 
 
-- Teoría de la Perspectiva. 
+## Objetivo.
+
+- Proveer al analista de datos de herramientas para la presentación de resultados. 
+- 
+
+## Temas
+
+- **Teoría de la perspectiva:** Nos ayuda a como presentar la información acorde al objetivo que queramos lograr con el 
+receptor de los datos.
+
+
+Esta teoría permite describir cómo las personas toman sus decisiones en situaciones donde deben 
+decidir entre alternativas que involucran riesgo, por ejemplo decisiones financieras. Partiendo de evidencia empírica, la teoría describe cómo los individuos evalúan las potenciales pérdidas y ganancias
+
+
 - Programación lineal (Planteo de problemas, soluciones y análisis de sensibilidad). 
 - Métodos Multicriterio (Escuela francesa, americana y métodos compensatorios). 
 - Métodos Multicriterios Grupales. 
